@@ -3,23 +3,37 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Progress-0%2F50-lightgrey?style=for-the-badge" />
-  <br>
-  📌 [LeetCode SQL Study Plan](https://leetcode.com/study-plan/top-sql-50/)
+  <br><br>
+  📌 <a href="https://leetcode.com/study-plan/top-sql-50/">LeetCode SQL Study Plan</a>
 </p>
 
 ---
 
 ## 📌 About
 
-This repository contains my solutions for the **Top 50 SQL Problems** from [LeetCode](https://leetcode.com/study-plan/top-sql-50/).  
-I'll be updating this README with my progress and solution files regularly. Follow along if you're on the same journey!
+This repository contains my journey through the **Top 50 SQL Problems** from LeetCode’s curated study plan.  
+Each problem will be solved, documented, and tracked here for learning, revision, and sharing with the community.  
+Whether you're a beginner or brushing up your SQL, feel free to use this as a reference.
 
 ---
 
-## 🚀 Progress
+## ✅ How to Use This
 
-> ✅ = Completed | ⏳ = In Progress | ❌ = Not Started  
-> You can click the problem name to visit it on LeetCode and the "Solution" link to view my SQL file once available.
+1. Create a folder `solutions/`  
+2. Save each `.sql` file using the format: `01-problem-name.sql`  
+3. Update the `Status` to:
+   - `✅` for completed
+   - `⏳` for in progress
+   - `❌` for not started  
+4. Add the file link under the **Solution** column like:  
+   `[View](./solutions/01-average-time-of-process.sql)`
+
+---
+
+## 🚀 Progress Tracker
+
+> ✅ = Completed &nbsp;&nbsp;&nbsp; ⏳ = In Progress &nbsp;&nbsp;&nbsp; ❌ = Not Started  
+> Click the problem name to open it in LeetCode. The "Solution" will be added as `.sql` files.
 
 | No. | Problem Name | Difficulty | Status | Solution |
 |-----|--------------|------------|--------|----------|
@@ -76,22 +90,10 @@ I'll be updating this README with my progress and solution files regularly. Foll
 
 ---
 
-## ✅ How to Use This
+## 💡 Final Note
 
-1. Create a folder `solutions/`  
-2. Save each `.sql` file using format: `01-problem-name.sql`  
-3. Update the `Status` to:
-   - `✅` for completed
-   - `⏳` for in progress
-   - `❌` for not started  
-4. Add the file link under **Solution** column like:  
-   `[View](./solutions/01-average-time-of-process.sql)`
+> _"Learning SQL is like learning to speak to your data. Master the language, and the data will speak volumes back."_  
+> — *Raja Rajeswari Javvadi*
 
 ---
 
-## 📌 Tip
-
-Once you complete problems, update:
-
-```markdown
-<img src="https://img.shields.io/badge/Progress-12%2F50-success?style=for-the-badge" />
